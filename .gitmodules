@@ -1,0 +1,6 @@
+[submodule "mnt-dashboard"]
+	path = mnt-dashboard
+	url = https://github.com/Moment-Labs/mnt-dashboard
+[submodule "mnt-api"]
+	path = mnt-api
+	url = https://github.com/Moment-Labs/mnt-api
